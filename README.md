@@ -24,9 +24,11 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
+
+
 <h3>🤝 Let's Connect!</h3>
 <p>
-If you’ve got something interesting to discuss, feel free to reach out <img src="assets/handshake.gif" width="50px"/> <br>
+Feel free to reach out <img src="assets/handshake.gif" width="50px"/> <br>
 📧 kalashkimi@gmail.com <br>
 🔗 <a href="[https://www.linkedin.com/in/kalash-nikose-b02196179/]">LinkedIn</a>
 </p>
