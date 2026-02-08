@@ -4,6 +4,9 @@
 * Software Engineer 3 [@MorganStanley](https://www.morganstanley.com) 👨‍💻
 * Bachelor's in Computer Science, VIT Pune🎓
 
+* I’m a Full Stack Developer with 3.5 years of experience, currently working at Morgan Stanley in Risk Technology Department.
+I have worked on high-impact projects like migrating legacy systems, implementing shock calculation and validation in the Scenario Designer web app, and building risk analytics frameworks. 
+
 ### Technologies mostly worked on ⚒
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
