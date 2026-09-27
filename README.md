@@ -1,7 +1,8 @@
 
 ### Hi, I'm Kalash Nikose !
 
-* Software Engineer 3 [@MorganStanley](https://www.morganstanley.com) 👨‍💻
+* Backend Developer at Paypay India.
+* Ex Software Engineer 3 [@MorganStanley](https://www.morganstanley.com) 👨‍💻
 * Bachelor's in Computer Science, VIT Pune🎓
 
 * I’m a Full Stack Developer with 3.5 years of experience, currently working at Morgan Stanley in Risk Technology Department.
